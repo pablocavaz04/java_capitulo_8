@@ -1,7 +1,7 @@
 /**
  * FUNCIONES GENERALES DE MATEMÁTICAS
  * 
- * @author jotaeme
+ * Author:Pablo Camino Vázquez
  */
 
 package mates.general;
