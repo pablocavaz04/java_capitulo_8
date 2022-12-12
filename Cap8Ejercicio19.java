@@ -3,7 +3,7 @@
  * convertir un número entre cualquiera de las siguientes bases: decimal, binario,
  * hexadecimal y octal.
  * 
- * @author jotaeme
+ * Author:Pablo Camino Vázquez
  */
 
 
